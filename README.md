@@ -13,6 +13,11 @@ I'm a Computer Engineering student at the Instituto Tecnológico de Costa Rica, 
 - [**Spoticry (Spotify Clone)**](https://github.com/camiulatech/Spoticry)  
   This version of Spotify was developed using two different programming paradigms and languages. The imperative paradigm was implemented in Go, while the functional paradigm was done in F#. The project is a client-server system capable of handling multiple clients simultaneously and includes the basic features of a music player.
 
+- [**Spoticry (Spotify Clone)**](https://github.com/camiulatech/Spoticry)  
+  This version of Spotify was developed using two different programming paradigms and languages. The imperative paradigm was implemented in Go, while the functional paradigm was done in F#. The project is a client-server system capable of handling multiple clients simultaneously and includes the basic features of a music player.
+
+- [**Compiler**](https://github.com/camiulatech/miCompilador)
+Compiler: Includes lexical, syntactic, and semantic analysis components for processing and validating the structure and meaning of source code.
 
 ### 🔎 Quality Assurance
 
