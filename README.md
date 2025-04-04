@@ -2,7 +2,7 @@
 
 I'm **Camila Ulate Chaves**, a Computer Engineering student at the Instituto Tecnológico de Costa Rica, and here you can find the most relevant projects I've developed during my academic journey.
 
-## ⭐ Projects
+## ⭐ Featured Projects
 
 - [**Administrative System for the PYME Salticos S.A.**](https://github.com/leo117-droid/AdminSalticos)  
   This project is an administrative system for managing inflatable rental services. It was developed using .NET CORE, C#, and SQL for the backend, and HTML, CSS, and JavaScript for the frontend. It includes automated testing with Selenium and functional tests using XUnit.
