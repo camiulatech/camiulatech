@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Computer Engineering student at the Instituto Tecnológico de Costa Rica, and here you can find the most relevant projects I've developed during my academic journey.
+I'm **Camila Ulate Chaves**, a Computer Engineering student at the Instituto Tecnológico de Costa Rica, and here you can find the most relevant projects I've developed during my academic journey.
 
 ## ⭐ Projects
 
