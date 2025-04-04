@@ -35,7 +35,6 @@ Compiler: Includes lexical, syntactic, and semantic analysis components for proc
 - [**Java Unit Testing with Selenium**](https://github.com/camiulatech/Lab4QA)  
   Automated testing using Selenium WebDriver to validate core features of a Java based application.
 
-
 ## 📫 Contact
 
 You can reach me at:
