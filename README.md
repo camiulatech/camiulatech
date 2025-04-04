@@ -32,8 +32,8 @@ Compiler: Includes lexical, syntactic, and semantic analysis components for proc
 - [**Cypress Testing**](https://github.com/camiulatech/Lab3QA)  
   End-to-end testing using Cypress to validate interactions and user flows in a frontend web application.
 
-- [**JavaScript Unit Testing with Selenium**](https://github.com/camiulatech/Lab4QA)  
-  Automated testing using Selenium WebDriver to validate core features of a JavaScript-based application.
+- [**Java Unit Testing with Selenium**](https://github.com/camiulatech/Lab4QA)  
+  Automated testing using Selenium WebDriver to validate core features of a Java based application.
 
 
 ## 📫 Contact
