@@ -39,4 +39,4 @@ Compiler: Includes lexical, syntactic, and semantic analysis components for proc
 
 You can reach me at:
 - ✉️ Email: camiulatech@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/camila-ulate-chaves-256348355](https://www.linkedin.com/in/camila-ulate-chaves-256348355)
+- 💼 LinkedIn: [linkedin.com/in/camila-ulate-chaves-256348355](https://www.linkedin.com/in/camila-ulate-chaves)
