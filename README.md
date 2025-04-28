@@ -10,7 +10,7 @@ I'm **Camila Ulate Chaves**, a Computer Engineering student at the Instituto Tec
 - [**E-Food**](https://github.com/camiulatech/E-Food)  
   This application was developed using the MVC design pattern with the .NET framework. The project was managed using the agile SCRUM methodology. SQL Server was used as the database, and the application was deployed on Microsoft Azure.
 
-- [**Spoticry (Spotify Clone)**](https://github.com/camiulatech/Spoticry)  
+- [**Spoticry (Spotify Clone)**](https://github.com/IRM24/Spoticry)  
   This version of Spotify was developed using two different programming paradigms and languages. The imperative paradigm was implemented in Go, while the functional paradigm was done in F#. The project is a client-server system capable of handling multiple clients simultaneously and includes the basic features of a music player.
 
 - [**Compiler**](https://github.com/camiulatech/miCompilador)
